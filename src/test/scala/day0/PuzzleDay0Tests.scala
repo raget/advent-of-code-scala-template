@@ -30,6 +30,6 @@ class PuzzleDay0Tests extends AnyFunSuite {
   }
 
   test("Get answer for the second puzzle") {
-    assert(puzzle.solvePart2(exampleInput2) == "is the second answer")
+    assert(puzzle.solvePart2(input2) == "is the second answer")
   }
 }
